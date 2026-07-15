@@ -47,7 +47,7 @@ Our work powers real hospital platforms — combining clean engineering with a m
 
 <p align="center">
   <a href="https://github.com/gencarehelp-s/shriramhospital">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gencarehelp-s&repo=shriramhospital&theme=vue-dark&hide_border=true" alt="Shriram Hospital Repo"/>
+    <img align="center" src="https://shriramhospitals.co.in/images/custom/logo.png" alt="Shriram Hospital Repo"/>
   </a>
 </p>
 
