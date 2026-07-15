@@ -71,7 +71,7 @@ Our work powers real hospital platforms — combining clean engineering with a m
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gencarehelp-s&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats-nine-rho-71.vercel.app/api?username=gencarehelp-s&show_icons=true&theme=vue-dark&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
