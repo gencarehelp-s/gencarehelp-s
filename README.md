@@ -62,9 +62,7 @@ Our work powers real hospital platforms — combining clean engineering with a m
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gencarehelp-s&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gencarehelp-s&theme=vue-dark&hide_border=true" alt="GitHub Streak"/>
